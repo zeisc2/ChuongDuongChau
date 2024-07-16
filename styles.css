@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    margin-right: 10px;
+}
+
+.tracks {
+    margin-top: 20px;
+}
+
+.track {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+audio {
+    width: 100%;
+    margin-top: 10px;
+}
